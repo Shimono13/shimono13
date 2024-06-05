@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/uc?export=view&id=1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t">
+<img src="https://drive.google.com/uc?export=view&id=1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t" style="border-radius: 50%;" alt="Simone Nataloni">
+
 
 <h2> Hey there! I'm Simone Nataloni.</h2>
 
