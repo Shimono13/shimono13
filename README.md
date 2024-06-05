@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/simonenataloni/simonenataloni/master/assets/Simone%20Nataloni%20Banner.png](https://scontent.ffco4-1.fna.fbcdn.net/v/t39.30808…4ATbkNF_m8a-OlceT0QN5Vf90U4kMPxAG_hgQ&oe=66666C13">
+<img src="https://raw.githubusercontent.com/simonenataloni/simonenataloni/master/assets/Simone%20Nataloni%20Banner.png">
 
 <h2> Hey there! I'm Simone.</h2>
 
