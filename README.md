@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://drive.google.com/uc?export=view&id=1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t">
+
 
 <h2> Hey there! I'm Aditya.</h2>
 
@@ -53,7 +54,6 @@
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<img src="https://drive.google.com/uc?export=view&id=1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t">
 
 
 
