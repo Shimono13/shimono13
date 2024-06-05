@@ -1,41 +1,44 @@
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
+<img src="https://raw.githubusercontent.com/simonenataloni/simonenataloni/master/assets/Simone%20Nataloni%20Banner.png">
 
-## Hey 👋, I'm Albert Abdilim
+<h2> Hey there! I'm Simone.</h2>
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
+- 🤔 &nbsp; Passionate about front-end development and exploring the latest web technologies.
+- 🎓 &nbsp; Studied Front-end Development at a coding bootcamp.
+- 🌱 &nbsp; Always learning and experimenting with new tools and frameworks.
+- ✍️ &nbsp; Enjoy creating sleek and intuitive user interfaces.
 
-I love programming and I love Swift.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-### Talking about Personal Stuffs:
+- 💻 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+<br/>
 
-### Languages and Tools:
+<a href="https://github.com/simonenataloni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonenataloni&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonenataloni&theme=buefy&layout=compact" />
+</a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+<br/>
 
-### Contact me:
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
-- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/simonenataloni/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simone%20Nataloni-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:simonenataloni@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-simonenataloni@example.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
-### My GitHub Stats
-
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
-
-⭐️ From [L1cardo](https://github.com/L1cardo)
+⭐️ From [Simone Nataloni](https://github.com/simonenataloni)
