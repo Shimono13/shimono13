@@ -2,6 +2,12 @@
 
 <h2> Hey there! I'm Simone Nataloni.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 💡 &nbsp; Enthusiastic about technology, constantly exploring new advancements and innovative solutions.
+- 🎨 &nbsp; Fascinated by animation and graphic design, finding inspiration in creative visual storytelling.
+- 🏋️ &nbsp; Dedicated to maintaining an active lifestyle, whether it's hitting the gym, hiking in nature, or practicing yoga for balance and well-being.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
