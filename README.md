@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/simonenataloni/simonenataloni/master/assets/Simone%20Nataloni%20Banner.png">
+<img src="https://drive.google.com/file/d/1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t/view?usp=sharing">
 
 <h2> Hey there! I'm Simone.</h2>
 
