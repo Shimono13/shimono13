@@ -1,7 +1,3 @@
- <img src="https://drive.google.com/uc?export=view&id=1qpMn8L3Tnfvls7YBsTF7-5krulGuhK8t" width="100" height="100" style="border-radius:50%">
-
-
-
 <h2> Hey there! I'm Simone Nataloni.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
