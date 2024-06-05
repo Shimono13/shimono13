@@ -36,11 +36,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href=""><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
- <a href="https://www.instagram.com/simone_nataloni.97/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-simone_nataloni.97-blue?style=flat-square&logo=instagram"></a>
-
+<a href="https://www.simone_nataloni.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.simone_nataloni.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/simone-nataloni/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simone%20Nataloni-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/simone_nataloni.97/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-simone_nataloni.97-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:pcsimone13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pcsimone13@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 
 </p>
 
